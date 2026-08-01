@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "Zero-Trust Offline Encrypted Exam System"
 message: "If you use this architecture in your research, implementation, or publication, please cite it as follows."
-type: software
+type: report
 
 authors:
   - family-names: "Tyagi"
