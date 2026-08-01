@@ -120,4 +120,10 @@ Licensed under CC BY-SA 4.0 International.
 
 ---
 
+## 📌 Quick Visual Summary
+
+![Quick Visual Summary](ZTOEES_Architecture_Infographic_Light.png)
+
+---
+
 © 2026 Amit Tyagi • Open Knowledge Project • CC BY-SA 4.0
