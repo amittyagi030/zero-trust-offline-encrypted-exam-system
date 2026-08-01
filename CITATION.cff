@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Zero-Trust Offline Encrypted Exam System"
+message: "If you use this architecture in your research, implementation, or publication, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Tyagi"
+    given-names: "Amit"
+
+version: "1.0"
+
+date-released: "2026-07-31"
+
+license: "CC-BY-SA-4.0"
+
+repository-code: "https://github.com/amittyagi030/zero-trust-offline-encrypted-exam-system"
+
+abstract: >
+  An open architecture for leak-resistant digital examinations based on
+  Zero-Trust Security, Offline Cryptography, Secure Hardware,
+  Human-Expert-Curated Question Banks, Cryptographically Secure Random
+  Question Selection, and Complete Auditability.
