@@ -72,7 +72,7 @@ The proposed architecture follows a secure end-to-end examination workflow:
 
 ---
 
-## 🖼️ Concept Illustrations
+## 🎨 Concept Illustrations
 
 This repository includes conceptual illustrations explaining the proposed examination device and security architecture.
 
@@ -120,7 +120,7 @@ Licensed under CC BY-SA 4.0 International.
 
 ---
 
-## 📌 Quick Visual Summary
+## 🖼️ Quick Visual Summary
 
 ![Quick Visual Summary](ZTOEES_Architecture_Infographic_Light.png)
 
