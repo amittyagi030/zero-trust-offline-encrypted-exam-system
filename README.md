@@ -49,6 +49,21 @@ To eliminate question paper leaks by combining:
 
 ---
 
+## 🏗️ System Architecture
+
+The proposed architecture follows a secure end-to-end examination workflow:
+
+1. Human Expert Curated Question Bank
+2. Cryptographically Secure Random Question Selection (CSPRNG)
+3. Digitally Signed & Encrypted Examination Packages
+4. Trusted Provisioning Infrastructure (TPS)
+5. Hardware-Enforced Offline Examination Devices
+6. Zero-Trust Security Architecture
+7. Post-Examination Security & Audit
+8. Open Architecture (CC BY-SA 4.0)
+
+---
+
 ## 📄 Whitepaper
 
 **Download Version 1.0 Whitepaper**
