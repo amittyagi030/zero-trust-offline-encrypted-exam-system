@@ -10,7 +10,7 @@ An Open Architecture for Leak-Resistant Digital Examinations
 
 ---
 
-https://doi.org/10.5281/zenodo.21759062](https://doi.org/10.5281/zenodo.21759062
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21759062.svg)](https://doi.org/10.5281/zenodo.21759062)
 
 ---
 
