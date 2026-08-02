@@ -20,3 +20,6 @@ abstract: >
   Zero-Trust Security, Offline Cryptography, Secure Hardware,
   Human-Expert-Curated Question Banks, Cryptographically Secure Random
   Question Selection, and Complete Auditability.
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21759062
