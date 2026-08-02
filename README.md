@@ -10,6 +10,10 @@ An Open Architecture for Leak-Resistant Digital Examinations
 
 ---
 
+https://doi.org/10.5281/zenodo.21759062](https://doi.org/10.5281/zenodo.21759062
+
+---
+
 ## 📖 Overview
 
 The Zero-Trust Offline Encrypted Exam System (ZTOEES) is an open architecture designed to significantly reduce the risk of examination paper leaks through layered cryptographic security, secure hardware, offline operation, and complete auditability.
